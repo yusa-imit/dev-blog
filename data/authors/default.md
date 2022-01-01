@@ -1,6 +1,6 @@
 ---
 name: Yusa-Imit, Jehong Lee
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.webp
 occupation: Front-End Engineer
 company: None
 email: esimileiar81@gmail.com
