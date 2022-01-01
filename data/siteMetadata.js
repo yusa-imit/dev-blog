@@ -1,14 +1,14 @@
 const siteMetadata = {
-  title: 'Dev Blog',
+  title: 'Yusa Dev Blog',
   author: 'Yusa Imit - Jehong Lee',
   headerTitle: 'DEVBLOG',
-  description: 'A blog that studies computer science knowledges.',
+  description: `Yusa's personal blog that studies computer science knowledges.`,
   language: 'ko-KR',
   theme: 'system', // system, dark or light
   siteUrl: 'https://dev.sutora.org',
   siteRepo: 'https://github.com/yusa-imit/dev-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.webp',
   socialBanner: '/static/images/twitter-card.png',
   email: 'esimileiar81@gmail.com',
   github: 'https://github.com/yusa-imit',
